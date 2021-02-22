@@ -1,0 +1,11 @@
+html, #root {
+   height: 100%
+}
+
+.jss2.jss3{
+   height: calc(100% - 65px);
+}
+
+.jss189 {
+    height: calc(100% - 132px);
+}
